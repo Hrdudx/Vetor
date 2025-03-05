@@ -1,4 +1,3 @@
-                                                       # Vetor
 ![Captura de tela 2025-03-05 202053](https://github.com/user-attachments/assets/b155adc5-c1c0-4b3b-8acb-60ed752527e7)
 
 ## Funcionalidades
